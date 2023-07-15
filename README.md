@@ -1,4 +1,4 @@
-# SimpsonsParadoxDetection
+# Simpsons Paradox Detection
 
 	@article{alipourfard2018using,
 	  title={Using Simpson's Paradox to Discover Interesting Patterns in Behavioral Data},
