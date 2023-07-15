@@ -1,0 +1,10 @@
+{
+	"num_of_bins": 20,
+	"least_num_of_datapoints_in_each_bin": 100,
+	"target_variable": "performance",
+	"target_variable_column": 3,
+	"level_of_significance": 0.05,
+	"csv_file_name": "small_khancademy",
+	"ignore_columns": ["user_id", "problem_id"],
+	"log_scales": ["solve_time", "all_attempts", "all_problems", "all_sequences", "session_index", "session_length", "session_num", "signup_duration", "total_solving_time", "all_first_attempts",  "attempts"]
+}
